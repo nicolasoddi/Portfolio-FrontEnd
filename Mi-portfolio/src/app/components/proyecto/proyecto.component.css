@@ -1,0 +1,23 @@
+h1{
+    padding-left: 30px;
+}
+.row{
+    background-color: #017dfe;
+}
+.contenedor{
+    width: auto;
+}
+.texto{
+    padding-left: 50px;
+}
+.imagenProyecto{
+    
+    box-shadow: 10px 10px 20px #000000;
+    position: relative;
+    bottom: 20px
+}
+.texto, .imagenProyecto{
+    display:inline-block;
+    text-align: justify;
+}
+

@@ -1,0 +1,12 @@
+.experiencia{
+    padding: 20px;
+}
+h1{
+    padding-left: 30px;
+}
+h2, h3{
+    display: inline;
+}
+div{
+    background-color: #017dfe;
+}
